@@ -1,0 +1,22 @@
+[2015-08-05 12:30:15][debug] 2015-08-05 12:30:15 : array (
+  'appid' => 'wxab9245b9041049b0',
+  'cash_fee' => '3000',
+  'cash_refund_fee' => '3000',
+  'coupon_refund_count' => '0',
+  'coupon_refund_fee' => '0',
+  'mch_id' => '1243542602',
+  'nonce_str' => 'L9IxowtW56Gl1Ig0',
+  'out_refund_no' => '124354260220150805123011',
+  'out_trade_no' => '2871',
+  'refund_channel' => 
+  array (
+  ),
+  'refund_fee' => '3000',
+  'refund_id' => '2009120102201508050024254340',
+  'result_code' => 'SUCCESS',
+  'return_code' => 'SUCCESS',
+  'return_msg' => 'OK',
+  'sign' => '861DB5B58371756F1213B140FED91ADF',
+  'total_fee' => '3000',
+  'transaction_id' => '1009120102201507230464813340',
+)

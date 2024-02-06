@@ -1,0 +1,44 @@
+[2015-07-28 17:53:43][debug] 2015-07-28 17:53:43 : array (
+  'appid' => 'wxab9245b9041049b0',
+  'cash_fee' => '3000',
+  'cash_refund_fee' => '3000',
+  'coupon_refund_count' => '0',
+  'coupon_refund_fee' => '0',
+  'mch_id' => '1243542602',
+  'nonce_str' => 'l5DjkF8T3GVglL6O',
+  'out_refund_no' => '124354260220150728175342',
+  'out_trade_no' => '388',
+  'refund_channel' => 
+  array (
+  ),
+  'refund_fee' => '3000',
+  'refund_id' => '2006130102201507280021417645',
+  'result_code' => 'SUCCESS',
+  'return_code' => 'SUCCESS',
+  'return_msg' => 'OK',
+  'sign' => '82DE6B29CDE13219DC41F83DCEC3CA1A',
+  'total_fee' => '3000',
+  'transaction_id' => '1006130102201507220456577585',
+)
+[2015-07-28 18:15:06][debug] 2015-07-28 18:15:06 : array (
+  'appid' => 'wxab9245b9041049b0',
+  'cash_fee' => '3000',
+  'cash_refund_fee' => '3000',
+  'coupon_refund_count' => '0',
+  'coupon_refund_fee' => '0',
+  'mch_id' => '1243542602',
+  'nonce_str' => '3OtprZgm2smzO2D7',
+  'out_refund_no' => '124354260220150728181501',
+  'out_trade_no' => '327',
+  'refund_channel' => 
+  array (
+  ),
+  'refund_fee' => '3000',
+  'refund_id' => '2007880102201507280021420887',
+  'result_code' => 'SUCCESS',
+  'return_code' => 'SUCCESS',
+  'return_msg' => 'OK',
+  'sign' => 'F3E354ED2C1198A40706A9446B6FAA0D',
+  'total_fee' => '3000',
+  'transaction_id' => '1007880102201507220456586666',
+)

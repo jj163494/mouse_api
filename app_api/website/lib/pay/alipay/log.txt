@@ -1,0 +1,24 @@
+集成时请注意：
+本文件log.txt请不要删除。
+该文本用于写日志函数。
+执行日期：20150702124259
+var_export($_POST,true)
+执行日期：20150702124306
+var_export($_POST,true)
+执行日期：Y-m-d H:i:s
+var_export($_POST,true)
+执行日期：2015-07-02 12:44:02
+var_export($_POST,true)
+执行日期：2015-07-02 12:44:21
+var_export($_POST,true)
+执行日期：2015-07-02 20:45:02
+var_export($_POST,true)
+执行日期：2015-07-04 03:39:53
+array (
+)
+执行日期：2015-07-04 03:43:36
+array (
+)
+执行日期：2015-07-04 03:44:14
+array (
+)
